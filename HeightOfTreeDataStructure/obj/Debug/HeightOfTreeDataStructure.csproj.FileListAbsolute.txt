@@ -1,0 +1,7 @@
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\HeightOfTreeDataStructure\HeightOfTreeDataStructure\bin\Debug\HeightOfTreeDataStructure.exe.config
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\HeightOfTreeDataStructure\HeightOfTreeDataStructure\bin\Debug\HeightOfTreeDataStructure.exe
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\HeightOfTreeDataStructure\HeightOfTreeDataStructure\bin\Debug\HeightOfTreeDataStructure.pdb
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\HeightOfTreeDataStructure\HeightOfTreeDataStructure\obj\Debug\HeightOfTreeDataStructure.csprojAssemblyReference.cache
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\HeightOfTreeDataStructure\HeightOfTreeDataStructure\obj\Debug\HeightOfTreeDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\HeightOfTreeDataStructure\HeightOfTreeDataStructure\obj\Debug\HeightOfTreeDataStructure.exe
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\HeightOfTreeDataStructure\HeightOfTreeDataStructure\obj\Debug\HeightOfTreeDataStructure.pdb
